@@ -1,0 +1,6 @@
+﻿  main.c
+D:\kahina\E5FI\IA\tscp_Apprentissage\tscp_apprentissage\tscp\main.c(29,54): warning C4244: 'return' : conversion de 'time_t' en 'int', perte possible de données
+D:\kahina\E5FI\IA\tscp_Apprentissage\tscp_apprentissage\tscp\main.c(487,29): warning C4013: 'Random32' non défini(e) ; extern retournant int pris par défaut
+  search.c
+  Génération de code en cours...
+  tscp.vcxproj -> D:\kahina\E5FI\IA\tscp_Apprentissage\tscp_apprentissage\x64\Debug\tscp_apprentissage.exe
